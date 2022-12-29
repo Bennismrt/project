@@ -15,7 +15,7 @@ export class HomeComponent implements OnInit {
   notscrolly = true;
 
 
-  limit = 5;
+  limit = 10;
 
   constructor(
     private _fatchApiServices : fatchServices,
